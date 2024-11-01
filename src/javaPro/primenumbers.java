@@ -22,6 +22,9 @@ System.out.println("from develop branceh changes to another");
 
 System.out.println("nelyc chnage 2:30");
 System.out.println("from cline to gitdemo");
+
+System.out.println("developing in develop branch");
+System.out.println("developing in develop branch again");
 	}
 
 }
